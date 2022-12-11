@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GtbzxZkELudHhaVH7bgYConET6VgjSsEBzygNvT46/nzMlElnIiGWc9ZVl9BQPu2C43CXhNqRaN74V3N6V6flw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlexeyProtsenko\\Desktop\\Основы алгоритмизации и программирования\\С#\\converter\\converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexeyProtsenko\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\AlexeyProtsenko\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
